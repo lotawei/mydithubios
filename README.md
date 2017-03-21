@@ -1,2 +1,2 @@
-# mydithubios
-learn  by   step
+### 第一个spritkit 游戏引擎学习的小游戏
+实现 人物重力翻转，你需要操作你的人物移动 跳跃 利用装置的特性 收集道具  最后完成游戏关卡 binggo
